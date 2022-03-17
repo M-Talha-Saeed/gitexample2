@@ -1,1 +1,1 @@
-# gitexample2
+### A page to comolete a git example task on the gitignore file
