@@ -1,1 +1,1 @@
-### A page to comolete a git example task on the gitignore file
+### A page to complete a git example task on the gitignore file
